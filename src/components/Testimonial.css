@@ -1,0 +1,31 @@
+.Testimonial__container {
+  border: 1px solid;
+  width: 350px;
+  height: 200px;
+  padding: 24px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.Testimonial__photo {
+  width: 100px;
+  cursor: pointer;
+}
+
+.Testimonial__name {
+  font-size: 16px;
+  text-align: center;
+  margin-top: 4px;
+}
+
+.Testimonial__stars {
+  cursor: pointer;
+}
+
+.Testimonial__text {
+  font-size: 0.8rem;
+}
